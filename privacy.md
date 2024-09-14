@@ -9,7 +9,7 @@ security of your information and maintaining transparency about our practices.
 ### Personal Data
 We collect your name, email address, and payment information to
 set up your account and handle transactions. Login is handled by the third party, Auth0 and as a result we do not collect your email address or any identifiable information beyond identifiers from Auth0 on our servers. 
-Auth0 is compliant with GDPR guidelines. [See their privacy policy for more details.](https://auth0.com/security). 
+Auth0 is compliant with GDPR guidelines. [See their privacy policy for more details](https://auth0.com/security). 
 Payment information is handled by the Third Party Stripe. Any and all payment information offered by the user is directly sent to Stripe without any pre-processing or storage on our end. 
 Stripe is also GDPR compliant. [See their privacy policy for more details](https://stripe.com/privacy).
 
